@@ -5,6 +5,7 @@ body, h1, h2, p {
     box-sizing: border-box;
 }
 
+/* Estilo global */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
